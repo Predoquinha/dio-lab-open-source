@@ -10,7 +10,10 @@ conhecer mais do mundo da tecnologia. Tenho afinidade com computadores desde a m
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Ferramentas**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git]
+(https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)!
+[Vscode]
+(https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Redes Sociais**
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)]( https://web.dio.me/users/pedrohenrico210)
